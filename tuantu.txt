@@ -2659,8 +2659,8 @@ local Section = W:AddSection({
 
 
 W:AddLabel("PHÁT TRIỂN BỞI")
-W:AddLabel("Vi Văn TúSCRIPT")
-W:AddLabel("DiscordVi Văn Tú")
+W:AddLabel("Vi Văn Tú")
+W:AddLabel("Vi Văn Tú hehe")
 local Section = W:AddSection({
     Name = "Status"
 })
@@ -6395,7 +6395,7 @@ SH:AddButton({
 C:AddButton({
     Name = "Link mời Discord",
     Callback = function(value)
-        setclipboard("https://discord.com/invite/NeUjYUrTat")
+        setclipboard("https://discord.com/invite/royx")
     end
 })
 
