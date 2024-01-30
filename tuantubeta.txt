@@ -3841,7 +3841,7 @@ function Update:Window(text,logo,keybind)
 	Hubb.Position = UDim2.new(0, 480, 0, 0)
 	Hubb.Size = UDim2.new(0, 81, 0, 27)
 	Hubb.Font = Enum.Font.GothamSemibold
-	Hubb.Text = "bắp tươi hub xin chào"
+	Hubb.Text = "NgThị Huyền xin chào"
 	Hubb.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Hubb.TextSize = 17.000
 	Hubb.TextXAlignment = Enum.TextXAlignment.Left
@@ -13566,7 +13566,7 @@ end)
         end
     end
 
-Main:Label("bắp tươi Hub By bắp tươi Hub")
+Main:Label("NgThị Huyền By NgThị Huyền")
 
 
 
