@@ -3348,7 +3348,7 @@ end
     
     function Text(value)
 		game.StarterGui:SetCore("SendNotification", {
-			Title = "bắp tươi  Notification", 
+			Title = "NgThị Huyền Notification", 
 			Text = tostring(value),
 			Icon = "http://www.roblox.com/asset/?id=16118250951",
 			Duration = 10
@@ -4749,7 +4749,7 @@ local LogoToggle = Instance.new("ImageLabel")
 end
 
 
-local Library = Update:Window("  Bắp Tươi ","2.0",Enum.KeyCode.RightControl);
+local Library = Update:Window("  NgThị Huyền","2.0",Enum.KeyCode.RightControl);
 
 Main = Library:Tab("Genneral",6026568198)
 Sta = Library:Tab("Stats",7040410130)
