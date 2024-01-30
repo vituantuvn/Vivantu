@@ -3018,7 +3018,7 @@ end
 			game.StarterGui:SetCore("SendNotification", {
 				Title = "Hop Low Server ", 
 				Text = "กำลังหาเซิฟ",
-				Icon = "http://www.roblox.com/asset/?id=16174544781",
+				Icon = "http://www.roblox.com/asset/?id=16118250951",
 				Duration = 25
 			})
 			local PlaceID = game.PlaceId
@@ -3044,7 +3044,7 @@ end
 					game.StarterGui:SetCore("SendNotification", {
 						Title = "Hop Low Server ", 
 						Text = "Players : " ..tonumber(v.playing),
-						Icon = "http://www.roblox.com/asset/?id=16174544781",
+						Icon = "http://www.roblox.com/asset/?id=16118250951",
 						Duration = 1.5
 					})
 					if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -3348,9 +3348,9 @@ end
     
     function Text(value)
 		game.StarterGui:SetCore("SendNotification", {
-			Title = " NgThị Huyền Notification", 
+			Title = "bắp tươi  Notification", 
 			Text = tostring(value),
-			Icon = "http://www.roblox.com/asset/?id=16174544781",
+			Icon = "http://www.roblox.com/asset/?id=16118250951",
 			Duration = 10
 		})
 	end
@@ -3668,7 +3668,7 @@ SOMEXHUBMODILE.Name = "SOMEXHUBMODILE"
         MODILEMAGE.BorderSizePixel = 0
         MODILEMAGE.Position = UDim2.new(0, 3, 0, 2)
         MODILEMAGE.Size = UDim2.new(0, 45, 0, 45)
-        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16174544781"
+        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16118250951"
 
 do local GUI = game.CoreGui:FindFirstChild("SOMEXHUB");if GUI then GUI:Destroy();end;if _G.Color == nil then
        _G.Color = Color3.fromRGB(50,255,255)
@@ -3841,7 +3841,7 @@ function Update:Window(text,logo,keybind)
 	Hubb.Position = UDim2.new(0, 480, 0, 0)
 	Hubb.Size = UDim2.new(0, 81, 0, 27)
 	Hubb.Font = Enum.Font.GothamSemibold
-	Hubb.Text = "NgThị Huyền hub beta"
+	Hubb.Text = "bắp tươi hub xin chào"
 	Hubb.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Hubb.TextSize = 17.000
 	Hubb.TextXAlignment = Enum.TextXAlignment.Left
@@ -3861,7 +3861,7 @@ local LogoHub = Instance.new("ImageLabel")
 	LogoHub.BackgroundTransparency = 1.000
 	LogoHub.Position = UDim2.new(0, 0, 0, 1)
 	LogoHub.Size = UDim2.new(0, 150, 0, 150)
-	LogoHub.Image = "http://www.roblox.com/asset/?id="..tostring(16174544781)
+	LogoHub.Image = "http://www.roblox.com/asset/?id="..tostring(16118250951)
 
 	local ScrollTab = Instance.new("ScrollingFrame")
 	ScrollTab.Name = "ScrollTab"
@@ -4171,7 +4171,7 @@ local LogoToggle = Instance.new("ImageLabel")
 	LogoToggle.BackgroundTransparency = 1.000
 	LogoToggle.Position = UDim2.new(0, 7, 0, 2)
 	LogoToggle.Size = UDim2.new(0, 26, 0, 26)
-	LogoToggle.Image = "http://www.roblox.com/asset/?id="..tostring(16174544781)
+	LogoToggle.Image = "http://www.roblox.com/asset/?id="..tostring(16118250951)
 
 			Circle.Name = "Circle"
 			Circle.Parent = ToggleImage
@@ -4270,7 +4270,7 @@ local LogoToggle = Instance.new("ImageLabel")
 			DropImage.Position = UDim2.new(0, 435, 0, 6)
 			DropImage.Rotation = 180.000
 			DropImage.Size = UDim2.new(0, 20, 0, 20)
-			DropImage.Image = "rbxassetid://16174544781"
+			DropImage.Image = "rbxassetid://16118250951"
 			
 			DropButton.Name = "DropButton"
 			DropButton.Parent = Dropdown
@@ -4749,7 +4749,7 @@ local LogoToggle = Instance.new("ImageLabel")
 end
 
 
-local Library = Update:Window("  NgThị Huyền","2.0",Enum.KeyCode.RightControl);
+local Library = Update:Window("  Bắp Tươi ","2.0",Enum.KeyCode.RightControl);
 
 Main = Library:Tab("Genneral",6026568198)
 Sta = Library:Tab("Stats",7040410130)
@@ -6005,7 +6005,7 @@ end)
 											game.StarterGui:SetCore("SendNotification", {
 												Title = "Hop Low Server ", 
 												Text = "กำลังหาเซิฟ",
-												Icon = "http://www.roblox.com/asset/?id=16174544781",
+												Icon = "http://www.roblox.com/asset/?id=16118250951",
 												Duration = 25
 											})
 											local PlaceID = game.PlaceId
@@ -6031,7 +6031,7 @@ end)
 													game.StarterGui:SetCore("SendNotification", {
 														Title = "Hop Low Server ", 
 														Text = "Players : " ..tonumber(v.playing),
-														Icon = "http://www.roblox.com/asset/?id=16174544781",
+														Icon = "http://www.roblox.com/asset/?id=16118250951",
 														Duration = 1.5
 													})
 													if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -6095,7 +6095,7 @@ end)
 										game.StarterGui:SetCore("SendNotification", {
 											Title = "Hop Low Server ", 
 											Text = "กำลังหาเซิฟ",
-											Icon = "http://www.roblox.com/asset/?id=16174544781",
+											Icon = "http://www.roblox.com/asset/?id=16118250951",
 											Duration = 25
 										})
 										local PlaceID = game.PlaceId
@@ -6121,7 +6121,7 @@ end)
 												game.StarterGui:SetCore("SendNotification", {
 													Title = "Hop Low Server ", 
 													Text = "Players : " ..tonumber(v.playing),
-													Icon = "http://www.roblox.com/asset/?id=16174544781",
+													Icon = "http://www.roblox.com/asset/?id=16118250951",
 													Duration = 1.5
 												})
 												if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -12098,7 +12098,7 @@ if New_World then
 Raid:Seperator("Law Boss")
 	
 
-	Raid:Toggle("Auto Law Boss",_G.Setting_table.Raw,function(vu)
+	Raid:Toggle("buy chip auto kill law",_G.Setting_table.Raw,function(vu)
 		Auto_Raw = vu
 		_G.Setting_table.Raw = vu
 		Update_Setting(getgenv()['MyName'])
@@ -12791,15 +12791,19 @@ if Old_World then
         TP2(CFrame.new(5244.7133789063, 38.526943206787, 4073.4987792969))
     end)
 
-    TPKub:Button("Sky1", function()
+    TPKub:Button("Sky island 1", function()
         TP2(CFrame.new(-4878.0415039063, 717.71246337891, -2637.7294921875))
     end)
 
-    TPKub:Button("Sky2", function()
+    TPKub:Button("Sky island 2", function()
         TP2(CFrame.new(-7899.6157226563, 5545.6030273438, -422.21798706055))
     end)
 
-    TPKub:Button("Sky3", function()
+    TPKub:Button("Sky island 3", function()
+        TP2(CFrame.new(-7868.5288085938, 5638.205078125, -1482.5548095703))
+    end)
+
+   TPKub:Button("Sky island 3", function()
         TP2(CFrame.new(-7868.5288085938, 5638.205078125, -1482.5548095703))
     end)
 
@@ -12943,6 +12947,11 @@ elseif Three_World  then
         TP2(CFrame.new(-2073.262451171875, 37.16134262084961, -10183.3271484375))
     end)
     TPKub:Button("Cake Loaf",function()
+        TP2(CFrame.new(-2099.33, 66.9971, -12128.6))
+    end)
+end
+
+   TPKub:Button("Cake Loaf",function()
         TP2(CFrame.new(-2099.33, 66.9971, -12128.6))
     end)
 end
@@ -13559,7 +13568,7 @@ end)
         end
     end
 
-Main:Label("NgThị Huyền Hub By NgThị Huyền Hub")
+Main:Label("bắp tươi Hub By bắp tươi Hub")
 
 
 
