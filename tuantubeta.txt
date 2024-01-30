@@ -3018,7 +3018,7 @@ end
 			game.StarterGui:SetCore("SendNotification", {
 				Title = "Hop Low Server ", 
 				Text = "กำลังหาเซิฟ",
-				Icon = "http://www.roblox.com/asset/?id=16118250951",
+				Icon = "http://www.roblox.com/asset/?id=16174544781",
 				Duration = 25
 			})
 			local PlaceID = game.PlaceId
@@ -3044,7 +3044,7 @@ end
 					game.StarterGui:SetCore("SendNotification", {
 						Title = "Hop Low Server ", 
 						Text = "Players : " ..tonumber(v.playing),
-						Icon = "http://www.roblox.com/asset/?id=16118250951",
+						Icon = "http://www.roblox.com/asset/?id=16174544781",
 						Duration = 1.5
 					})
 					if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -3350,7 +3350,7 @@ end
 		game.StarterGui:SetCore("SendNotification", {
 			Title = "NgThị Huyền Notification", 
 			Text = tostring(value),
-			Icon = "http://www.roblox.com/asset/?id=16118250951",
+			Icon = "http://www.roblox.com/asset/?id=16174544781",
 			Duration = 10
 		})
 	end
@@ -3668,7 +3668,7 @@ SOMEXHUBMODILE.Name = "SOMEXHUBMODILE"
         MODILEMAGE.BorderSizePixel = 0
         MODILEMAGE.Position = UDim2.new(0, 3, 0, 2)
         MODILEMAGE.Size = UDim2.new(0, 45, 0, 45)
-        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16118250951"
+        MODILEMAGE.Image = "http://www.roblox.com/asset/?id=16174544781"
 
 do local GUI = game.CoreGui:FindFirstChild("SOMEXHUB");if GUI then GUI:Destroy();end;if _G.Color == nil then
        _G.Color = Color3.fromRGB(50,255,255)
@@ -3861,7 +3861,7 @@ local LogoHub = Instance.new("ImageLabel")
 	LogoHub.BackgroundTransparency = 1.000
 	LogoHub.Position = UDim2.new(0, 0, 0, 1)
 	LogoHub.Size = UDim2.new(0, 150, 0, 150)
-	LogoHub.Image = "http://www.roblox.com/asset/?id="..tostring(16118250951)
+	LogoHub.Image = "http://www.roblox.com/asset/?id="..tostring(16174544781)
 
 	local ScrollTab = Instance.new("ScrollingFrame")
 	ScrollTab.Name = "ScrollTab"
@@ -4171,7 +4171,7 @@ local LogoToggle = Instance.new("ImageLabel")
 	LogoToggle.BackgroundTransparency = 1.000
 	LogoToggle.Position = UDim2.new(0, 7, 0, 2)
 	LogoToggle.Size = UDim2.new(0, 26, 0, 26)
-	LogoToggle.Image = "http://www.roblox.com/asset/?id="..tostring(16118250951)
+	LogoToggle.Image = "http://www.roblox.com/asset/?id="..tostring(16174544781)
 
 			Circle.Name = "Circle"
 			Circle.Parent = ToggleImage
@@ -4270,7 +4270,7 @@ local LogoToggle = Instance.new("ImageLabel")
 			DropImage.Position = UDim2.new(0, 435, 0, 6)
 			DropImage.Rotation = 180.000
 			DropImage.Size = UDim2.new(0, 20, 0, 20)
-			DropImage.Image = "rbxassetid://16118250951"
+			DropImage.Image = "rbxassetid://16174544781"
 			
 			DropButton.Name = "DropButton"
 			DropButton.Parent = Dropdown
@@ -6005,7 +6005,7 @@ end)
 											game.StarterGui:SetCore("SendNotification", {
 												Title = "Hop Low Server ", 
 												Text = "กำลังหาเซิฟ",
-												Icon = "http://www.roblox.com/asset/?id=16118250951",
+												Icon = "http://www.roblox.com/asset/?id=16174544781",
 												Duration = 25
 											})
 											local PlaceID = game.PlaceId
@@ -6031,7 +6031,7 @@ end)
 													game.StarterGui:SetCore("SendNotification", {
 														Title = "Hop Low Server ", 
 														Text = "Players : " ..tonumber(v.playing),
-														Icon = "http://www.roblox.com/asset/?id=16118250951",
+														Icon = "http://www.roblox.com/asset/?id=16174544781",
 														Duration = 1.5
 													})
 													if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -6095,7 +6095,7 @@ end)
 										game.StarterGui:SetCore("SendNotification", {
 											Title = "Hop Low Server ", 
 											Text = "กำลังหาเซิฟ",
-											Icon = "http://www.roblox.com/asset/?id=16118250951",
+											Icon = "http://www.roblox.com/asset/?id=16174544781",
 											Duration = 25
 										})
 										local PlaceID = game.PlaceId
@@ -6121,7 +6121,7 @@ end)
 												game.StarterGui:SetCore("SendNotification", {
 													Title = "Hop Low Server ", 
 													Text = "Players : " ..tonumber(v.playing),
-													Icon = "http://www.roblox.com/asset/?id=16118250951",
+													Icon = "http://www.roblox.com/asset/?id=16174544781",
 													Duration = 1.5
 												})
 												if tonumber(v.maxPlayers) > tonumber(v.playing) then
