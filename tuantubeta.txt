@@ -3348,7 +3348,7 @@ end
     
     function Text(value)
 		game.StarterGui:SetCore("SendNotification", {
-			Title = " Nguyễn Thị Huyền Notification", 
+			Title = " NgThị Huyền Notification", 
 			Text = tostring(value),
 			Icon = "http://www.roblox.com/asset/?id=16174544781",
 			Duration = 10
@@ -3841,7 +3841,7 @@ function Update:Window(text,logo,keybind)
 	Hubb.Position = UDim2.new(0, 480, 0, 0)
 	Hubb.Size = UDim2.new(0, 81, 0, 27)
 	Hubb.Font = Enum.Font.GothamSemibold
-	Hubb.Text = "Nguyễn Thị Huyền hub beta"
+	Hubb.Text = "NgThị Huyền hub beta"
 	Hubb.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Hubb.TextSize = 17.000
 	Hubb.TextXAlignment = Enum.TextXAlignment.Left
@@ -4749,7 +4749,7 @@ local LogoToggle = Instance.new("ImageLabel")
 end
 
 
-local Library = Update:Window("  Nguyễn Thị Huyền","2.0",Enum.KeyCode.RightControl);
+local Library = Update:Window("  NgThị Huyền","2.0",Enum.KeyCode.RightControl);
 
 Main = Library:Tab("Genneral",6026568198)
 Sta = Library:Tab("Stats",7040410130)
@@ -13559,7 +13559,7 @@ end)
         end
     end
 
-Main:Label("Nguyễn Thị Huyền Hub By Nguyễn Thị Huyền Hub")
+Main:Label("NgThị Huyền Hub By NgThị Huyền Hub")
 
 
 
